@@ -43,6 +43,7 @@ export default {
  }
  .form-control {
    margin-right: 10px;
+   width: 80%;
  }
  .btn-info {
    margin-top: 20px;

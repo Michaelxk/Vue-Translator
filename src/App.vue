@@ -1,10 +1,13 @@
 <template>
-  <div class="text-center" id="app">
-    <h1>Word Translator</h1>
-    <h5>Powerd By Vue.js</h5>
-
+  <div id="app">
+    <div class="text-center">
+      <h1>Word Translator</h1>
+      <h5>Powerd By Vue.js</h5>
+   
+   
     <TranslateForm v-on:formSubmit="translateText"></TranslateForm>
     <TranslateOutput v-text="TranslatedText"></TranslateOutput>
+   </div>
   </div>
 </template>
 
@@ -40,5 +43,11 @@ height: 100vh;
 background: #83a4d4;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #b6fbff, #83a4d4);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #b6fbff, #83a4d4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.text-center {
+  padding-top: 100px;
+}
+h1 {
+  font-weight: bold;
 }
 </style>
