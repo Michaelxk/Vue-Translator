@@ -1,6 +1,7 @@
-# word-translator
+# Word-Translator
 
-> Simple translator aplication
+> Simple Translator App.  Polish - English - Spanish - Russian - Italian and other languages can be translate
+with this powerfull app.
 
 ## Build Setup
 
