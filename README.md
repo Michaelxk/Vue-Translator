@@ -1,6 +1,6 @@
-# word-translator
+# Vue-translator
 
-> Simple translator aplication
+> Simple translator aplication using the power of Vue.Js and Firebase
 
 ## Build Setup
 
