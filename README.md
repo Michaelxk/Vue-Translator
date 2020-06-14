@@ -1,6 +1,11 @@
 # Vue-translator
 
 > Simple translator aplication using the power of Vue.Js and Firebase
+help you to translate for the most important languages around the world, I made this personal app because I wanted to learn polish, Italian and Russian languages, and to do it with one tool created by me.
+
+## Live preview
+
+https://word-translator-70f04.web.app/
 
 ## Build Setup
 
